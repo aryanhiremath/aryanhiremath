@@ -1,244 +1,212 @@
  
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,45:12306B,100:00C6FF&section=header&animation=twinkling" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=46&duration=2500&pause=1500&color=00C6FF&center=true&vCenter=true&repeat=false&width=800&height=90&lines=ARYAN+HIREMATH" alt="Aryan Hiremath" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=700&size=24&duration=2600&pause=900&color=E2F3FF&center=true&vCenter=true&width=800&height=50&lines=AI+%26+ML+Enthusiast;Python+Developer+%7C+Software+Engineer;Exploring+Agentic+AI+%26+LLMs;Building+Intelligent+Systems;Computer+Vision+%7C+Automation" alt="Animated introduction" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:7C3AED,50:06B6D4,100:7C3AED" width="100%" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/EDUCATION-B.E.%20COMPUTER%20ENGINEERING-0284C7?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/BASED%20IN-PUNE%2C%20INDIA-0284C7?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/FOCUS-AI%20%C2%B7%20ML%20%C2%B7%20SOFTWARE-0284C7?style=for-the-badge&labelColor=020617" />
+# ARYAN HIREMATH
 
-<br/><br/>
+### `Computer Engineering Student` · `AI/ML Enthusiast` · `Developer`
+
+Building intelligent applications. Exploring AI. Turning ideas into code.
+
+<br/>
 
 <a href="https://github.com/aryanhiremath">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-18181B?style=flat-square&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=aryanhiremath&style=for-the-badge&color=0284C7&label=PROFILE+VIEWS" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" />
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=ABOUT+ME" />
-</div>
-
-### Hey there! I'm Aryan 👋
-
-I'm a Computer Engineering student passionate about **Artificial Intelligence, Machine Learning and Software Development**.
-
-I enjoy exploring how intelligent systems work, building practical applications and turning ideas into working projects.
-
-- 🤖 Exploring AI, Machine Learning and LLM-powered applications.
-- 🧠 Building projects with Python, LangChain and local LLMs.
-- 👁️ Interested in Computer Vision and intelligent automation.
-- 💻 Practicing Data Structures, Algorithms and problem-solving.
-- ☁️ Exploring cloud infrastructure and DevOps workflows.
-- 🚀 Always learning, experimenting and building something new.
-
-```python
-class Aryan:
-
-    def __init__(self):
-        self.name = "Aryan Hiremath"
-        self.role = "Computer Engineering Student"
-        self.location = "Pune, India"
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Computer Vision",
-            "Agentic AI",
-            "Software Development"
-        ]
-        self.current_focus = "Building intelligent applications"
-
-    def say_hello(self):
-        return "Let's build something meaningful!"
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" />
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=TECH+ARSENAL" />
-</div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,javascript,react,tailwind,flutter,mysql,git,github,vscode&theme=dark&perline=7" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/India-06B6D4?style=flat-square"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=opencv,aws,linux,bash,docker,flask,fastapi,githubactions&theme=dark&perline=7" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=06B6D4&center=true&vCenter=true&width=600&height=35&lines=Exploring+the+world+of+AI;Building+with+Python+%26+LLMs;Learning+by+building+real+projects;Always+curious.+Always+creating." />
 
 </div>
 
-| Domain | Technologies |
-|:---|:---|
-| 🤖 AI & Machine Learning | Python, Scikit-learn, TensorFlow, OpenCV |
-| 🧠 LLM & GenAI | LangChain, LangGraph, FAISS, Ollama, Hugging Face |
-| 💻 Programming | Python, C++, Java, SQL |
-| 🌐 Web Development | HTML, CSS, JavaScript, React, Tailwind CSS |
-| 📱 App Development | Flutter, Firebase |
-| ☁️ Cloud & DevOps | AWS EC2, Maven, SonarQube, Tomcat |
-| 🛠️ Tools | Git, GitHub, VS Code, MySQL |
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" />
+## `01` — About Me
+
+Hey! I'm Aryan, a Computer Engineering student who enjoys building software and experimenting with intelligent systems.
+
+I'm particularly interested in the intersection of **Artificial Intelligence, Machine Learning and Software Engineering**.
+
+- 🤖 Exploring Generative AI, LLMs and agentic workflows.
+- 🧠 Building AI-powered applications using Python and LangChain.
+- 👁️ Experimenting with Computer Vision and Object Detection.
+- ☁️ Learning cloud deployment and DevOps practices.
+- 💻 Solving DSA problems and strengthening programming fundamentals.
+
+```python
+aryan = {
+    "education": "Computer Engineering",
+    "interests": ["AI/ML", "GenAI", "Computer Vision"],
+    "languages": ["Python", "C++", "Java", "SQL"],
+    "currently_building": "AI-powered applications",
+    "mindset": "Learn. Build. Improve. Repeat."
+}
+```
+
+---
+
+## `02` — Tech Stack
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=FEATURED+PROJECTS" />
+
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,mysql&theme=dark" />
+
+<br/><br/>
+
+**AI / MACHINE LEARNING**
+
+<img src="https://skillicons.dev/icons?i=opencv,python&theme=dark" />
+
+<br/><br/>
+
+**FRAMEWORKS & DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,flask,fastapi&theme=dark" />
+
+<br/><br/>
+
+**TOOLS & INFRASTRUCTURE**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,aws,linux,docker,firebase&theme=dark" />
+
 </div>
 
-### 🔐 SecureTrace AI
-**AI-powered secure document sharing platform**
+**Also exploring:** LangChain · LangGraph · FAISS · Ollama · Hugging Face · SonarQube · Maven · Tomcat
 
-A final-year project focused on secure document sharing, encryption, document integrity and traceability.
+---
+
+## `03` — Selected Projects
+
+<div align="center">
+
+<a href="https://github.com/aryanhiremath/RepoInsight-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanhiremath&repo=RepoInsight-AI&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/aryanhiremath/Secure_Trace_AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanhiremath&repo=Secure_Trace_AI&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+### 🧠 RepoInsight AI
+
+An AI-powered repository assistant that lets users interact with GitHub codebases using natural language.
+
+- Repository cloning and source-code processing.
+- Text chunking and embedding generation.
+- FAISS vector search.
+- Context-aware question answering with local LLMs.
+
+`Python` `LangChain` `FAISS` `Flask` `Ollama` `Hugging Face`
+
+[View Repository →](https://github.com/aryanhiremath/RepoInsight-AI)
+
+### 🔐 SecureTrace AI
+
+An ongoing final-year project focused on secure document sharing and traceability.
 
 - Role-based document access.
 - File encryption and decryption.
 - SHA-256 integrity verification.
-- Document activity tracking.
-- Investigative workflows for identifying document leaks.
+- Document activity ledger.
+- Investigation and leak-tracing workflows.
 
-**Tech:** React, Python, FastAPI, LangChain, AI/ML, SHA-256
+`React` `Python` `AI/ML` `SHA-256` `FastAPI (planned)`
 
-[Explore Repository →](https://github.com/aryanhiremath/Secure_Trace_AI)
-
----
-
-### 🧠 RepoInsight AI
-**AI-powered GitHub repository assistant**
-
-An intelligent repository analysis tool that allows users to interact with codebases using natural language.
-
-- Clone and analyze GitHub repositories.
-- Process source files into manageable chunks.
-- Generate embeddings and store them in FAISS.
-- Ask questions about repository code.
-- Generate contextual responses using local LLMs.
-
-**Tech:** Python, LangChain, FAISS, Flask, Ollama, Hugging Face
-
-[Explore Repository →](https://github.com/aryanhiremath/RepoInsight-AI)
-
----
+[View Repository →](https://github.com/aryanhiremath/Secure_Trace_AI)
 
 ### 👁️ Object Detection Using Python
-**Real-time object detection using computer vision**
 
-A computer vision project focused on detecting objects through a camera using Python.
+Exploring computer vision through object detection and image processing.
 
-- Real-time camera-based detection.
-- Object recognition using YOLOv5.
-- Image processing using OpenCV.
-- Experimentation with object detection workflows.
+- YOLOv5-based object detection.
+- Image processing with OpenCV.
+- Understanding real-time detection workflows.
 
-**Tech:** Python, OpenCV, YOLOv5
+`Python` `OpenCV` `YOLOv5`
 
-[Explore Repository →](https://github.com/aryanhiremath/Object-detection-using-python)
+[View Repository →](https://github.com/aryanhiremath/Object-detection-using-python)
 
 ---
 
-### ✋ Hand and Face Tracker
-**Real-time tracking using MediaPipe**
-
-A lightweight computer vision application for detecting and tracking hands and faces.
-
-- Real-time hand tracking.
-- Face detection and tracking.
-- Landmark-based detection.
-- Interactive computer vision experiments.
-
-**Tech:** Python, MediaPipe, OpenCV
-
-[Explore Repository →](https://github.com/aryanhiremath/Hand-and-Face-Tracker-using-python)
+## `04` — GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/aryanhiremath?tab=repositories">
-<img src="https://img.shields.io/badge/Explore_All_Repositories-0284C7?style=for-the-badge&logo=github&logoColor=white&labelColor=020617" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanhiremath&show_icons=true&hide_border=true&theme=transparent&title_color=06B6D4&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhiremath&layout=compact&hide_border=true&theme=transparent&title_color=06B6D4&text_color=94A3B8" />
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=aryanhiremath&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanhiremath&bg_color=00000000&color=94A3B8&line=06B6D4&point=8B5CF6&area=true&area_color=7C3AED&hide_border=true" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" />
+---
+
+## `05` — Currently Exploring
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=GITHUB+ANALYTICS" />
+
+<img src="https://img.shields.io/badge/Generative_AI-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Agentic_AI-06B6D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1D4ED8?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer_Vision-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud_&_DevOps-0891B2?style=flat-square"/>
+
 </div>
 
+- Building more capable AI applications.
+- Exploring multi-agent architectures.
+- Improving problem-solving and DSA.
+- Learning to deploy scalable applications.
+
+---
+
+## `06` — Beyond the Code
+
+When I'm not coding, you'll probably find me:
+
+- 🎬 Exploring cinema and filmmaking.
+- 🏎️ Following Formula 1.
+- 🚗 Collecting Hot Wheels.
+- 🎮 Exploring creative technology and new ideas.
+
+---
+
 <div align="center">
 
-<a href="https://github.com/aryanhiremath">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aryanhiremath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-</a>
+### HAVE AN INTERESTING IDEA?
+
+I'm always open to learning, collaborating and building interesting things.
+
+<br/>
 
 <a href="https://github.com/aryanhiremath">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhiremath&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-06B6D4?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=aryanhiremath&theme=tokyonight&hide_border=true" />
+<sub>Designed with curiosity. Built with code.</sub>
 
-</div>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" />
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CONTRIBUTION+GRAPH" />
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanhiremath&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" />
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=CURRENTLY+LEARNING" />
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Generative_AI-00C6FF?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Agentic_AI-12306B?style=for-the-badge&logo=probot&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-0284C7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloud_&_DevOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-</div>
-
-- Building more practical AI-powered applications.
-- Exploring agentic workflows and AI automation.
-- Improving problem-solving and DSA skills.
-- Learning how to build and deploy scalable applications.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:00C6FF,100:020617" width="100%" />
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=1500&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=false&width=700&height=55&lines=LET'S+CONNECT" />
-
-**Interested in AI, software development, computer vision or building something interesting? Let's connect!**
-
-<a href="https://github.com/aryanhiremath">
-<img src="https://img.shields.io/badge/GitHub-Aryan_Hiremath-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&repeat=false&width=600&height=40&lines=Learn.+Build.+Experiment.+Repeat." />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:00C6FF,50:12306B,100:020617" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7C3AED,50:111827,100:06B6D4" width="100%"/>
 
 </div>
