@@ -139,27 +139,7 @@ Exploring computer vision through object detection and image processing.
 
 ---
 
-## `04` — GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aryanhiremath&show_icons=true&hide_border=true&theme=transparent&title_color=06B6D4&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanhiremath&layout=compact&hide_border=true&theme=transparent&title_color=06B6D4&text_color=94A3B8" />
-
-<br/><br/>
-
-<img width="85%" src="https://streak-stats.demolab.com?user=aryanhiremath&theme=transparent&hide_border=true&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aryanhiremath&bg_color=00000000&color=94A3B8&line=06B6D4&point=8B5CF6&area=true&area_color=7C3AED&hide_border=true" />
-
-</div>
-
----
-
-## `05` — Currently Exploring
+## `04` — Currently Exploring
 
 <div align="center">
 
@@ -175,17 +155,6 @@ Exploring computer vision through object detection and image processing.
 - Exploring multi-agent architectures.
 - Improving problem-solving and DSA.
 - Learning to deploy scalable applications.
-
----
-
-## `06` — Beyond the Code
-
-When I'm not coding, you'll probably find me:
-
-- 🎬 Exploring cinema and filmmaking.
-- 🏎️ Following Formula 1.
-- 🚗 Collecting Hot Wheels.
-- 🎮 Exploring creative technology and new ideas.
 
 ---
 
